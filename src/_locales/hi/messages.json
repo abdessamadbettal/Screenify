@@ -11,10 +11,6 @@
     "message": "रिकॉर्ड",
     "description": "पॉपअप पर रिकॉर्ड टैब लेबल"
   },
-  "videosTab": {
-    "message": "आपके वीडियो",
-    "description": "पॉपअप पर वीडियो टैब लेबल"
-  },
   "screenType": {
     "message": "स्क्रीन",
     "description": "पॉपअप पर स्क्रीन रिकॉर्डिंग प्रकार लेबल"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "एक GIF निर्यात करें (अधिकतम 30 सेकंड)",
     "description": "GIF डाउनलोड लेबल"
-  },
-  "shareModalSandboxTitle": {
-    "message": "अपने वीडियो को अन्यों के साथ साझा करें",
-    "description": "सैंडबॉक्स संपादक पृष्ठ में साझा करें शीर्षक"
-  },
-  "shareModalSandboxDescription": {
-    "message": "जल्द ही! साझा करने के लिए अपडेट रहने और जानकारी मिलने के लिए अपना ईमेल छोड़ें।",
-    "description": "सैंडबॉक्स संपादक पृष्ठ में साझा करें विवरण"
-  },
-  "shareModalSandboxButton": {
-    "message": "वेटलिस्ट में शामिल हों",
-    "description": "सैंडबॉक्स संपादक पृष्ठ में साझा करें ईमेल प्लेसहोल्डर"
-  },
-  "shareSandboxButton": {
-    "message": "वीडियो साझा करें",
-    "description": "सैंडबॉक्स संपादक पृष्ठ में साझा करें बटन"
   },
   "replaceAudioEditor": {
     "message": "मौजूदा ऑडियो को बदलें",

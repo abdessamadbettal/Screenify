@@ -11,10 +11,6 @@
     "message": "Запись",
     "description": "Метка вкладки записи на всплывающем окне"
   },
-  "videosTab": {
-    "message": "Ваши видео",
-    "description": "Метка вкладки видео на всплывающем окне"
-  },
   "screenType": {
     "message": "Экран",
     "description": "Метка типа записи экрана на всплывающем окне"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Экспортировать GIF (максимум 30 секунд)",
     "description": "Метка скачивания GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Поделитесь вашими видео с другими",
-    "description": "Заголовок модального окна для песочницы"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Скоро! Оставьте свой адрес электронной почты, чтобы быть в курсе и получать уведомления о доступности функции обмена.",
-    "description": "Описание модального окна для песочницы"
-  },
-  "shareModalSandboxButton": {
-    "message": "Присоединиться к списку ожидания",
-    "description": "Заглушка для адреса электронной почты в модальном окне для песочницы"
-  },
-  "shareSandboxButton": {
-    "message": "Поделиться видео",
-    "description": "Кнопка обмена в редакторе песочницы"
   },
   "replaceAudioEditor": {
     "message": "Заменить существующий аудиофайл",

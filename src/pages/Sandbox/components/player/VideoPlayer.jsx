@@ -57,27 +57,6 @@ const VideoPlayer = (props) => {
     []
   );
 
-  /*
-  useEffect(() => {
-    if (contentState.blob) {
-      const objectURL = URL.createObjectURL(contentState.blob);
-      setSource({
-        type: "video",
-        sources: [
-          {
-            src: objectURL,
-            type: "video/mp4",
-          },
-        ],
-      });
-      setUrl(objectURL);
-
-      return () => {
-        URL.revokeObjectURL(objectURL);
-      };
-    }
-  }, [contentState.blob, playerRef]);
-	*/
 
   useEffect(() => {
     if (contentState.webm || contentState.blob) {

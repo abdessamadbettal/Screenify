@@ -11,10 +11,6 @@
     "message": "Record",
     "description": "Record tab label on popup"
   },
-  "videosTab": {
-    "message": "Your videossss",
-    "description": "Videos tab label on popup"
-  },
   "screenType": {
     "message": "Screen",
     "description": "Screen recording type label on popup"
@@ -598,22 +594,6 @@
   "downloadGIFButtonDescription": {
     "message": "Export a GIF (max 30 seconds)",
     "description": "Download GIF label"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Share your videos with others",
-    "description": "Share modal title in sandbox editor page"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Coming soon! Leave your email to stay updated and be notified when sharing is available.",
-    "description": "Share modal description in sandbox editor page"
-  },
-  "shareModalSandboxButton": {
-    "message": "Join the waitlist",
-    "description": "Share modal email placeholder in sandbox editor page"
-  },
-  "shareSandboxButton": {
-    "message": "Share video",
-    "description": "Share button in sandbox editor page"
   },
   "replaceAudioEditor": {
     "message": "Replace existing audio",

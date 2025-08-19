@@ -11,10 +11,6 @@
     "message": "Rekam",
     "description": "Label tab Rekam pada popup"
   },
-  "videosTab": {
-    "message": "Video Anda",
-    "description": "Label tab Video pada popup"
-  },
   "screenType": {
     "message": "Layar",
     "description": "Label jenis perekaman layar pada popup"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Ekspor GIF (maksimal 30 detik)",
     "description": "Label Unduh GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Bagikan video Anda dengan orang lain",
-    "description": "Judul modal Bagikan di halaman editor Sandbox"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Segera hadir! Tinggalkan email Anda untuk tetap diperbarui dan mendapatkan pemberitahuan saat berbagi tersedia.",
-    "description": "Deskripsi modal Bagikan di halaman editor Sandbox"
-  },
-  "shareModalSandboxButton": {
-    "message": "Gabung dalam daftar tunggu",
-    "description": "Kotak masuk modal Bagikan di halaman editor Sandbox"
-  },
-  "shareSandboxButton": {
-    "message": "Bagikan video",
-    "description": "Tombol Bagikan di halaman editor Sandbox"
   },
   "replaceAudioEditor": {
     "message": "Ganti audio yang ada",
