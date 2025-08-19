@@ -11,10 +11,6 @@
     "message": "录制",
     "description": "Record tab label on popup"
   },
-  "videosTab": {
-    "message": "您的视频",
-    "description": "Videos tab label on popup"
-  },
   "screenType": {
     "message": "屏幕",
     "description": "Screen recording type label on popup"
@@ -598,22 +594,6 @@
   "downloadGIFButtonDescription": {
     "message": "导出为 GIF（最长30秒）",
     "description": "Download GIF label"
-  },
-  "shareModalSandboxTitle": {
-    "message": "与他人分享您的视频",
-    "description": "Share modal title in sandbox editor page"
-  },
-  "shareModalSandboxDescription": {
-    "message": "即将推出！留下您的电子邮件以保持更新，并在分享可用时收到通知。",
-    "description": "Share modal description in sandbox editor page"
-  },
-  "shareModalSandboxButton": {
-    "message": "加入等待列表",
-    "description": "Share modal email placeholder in sandbox editor page"
-  },
-  "shareSandboxButton": {
-    "message": "分享视频",
-    "description": "Share button in sandbox editor page"
   },
   "replaceAudioEditor": {
     "message": "替换现有音频",

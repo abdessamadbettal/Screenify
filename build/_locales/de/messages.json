@@ -11,10 +11,6 @@
     "message": "Aufnehmen",
     "description": "Registerkarte 'Aufnehmen' in der Popup-Ansicht"
   },
-  "videosTab": {
-    "message": "Ihre Videos",
-    "description": "Registerkarte 'Ihre Videos' in der Popup-Ansicht"
-  },
   "screenType": {
     "message": "Bildschirm",
     "description": "Label für die Aufnahmeart 'Bildschirm' in der Popup-Ansicht"
@@ -598,22 +594,6 @@
   "downloadGIFButtonDescription": {
     "message": "GIF exportieren (max. 30 Sekunden)",
     "description": "Beschriftung 'GIF herunterladen'"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Teilen Sie Ihre Videos mit anderen",
-    "description": "Titel des Freigabemodals auf der Sandbox-Editor-Seite"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Kommt bald! Hinterlassen Sie Ihre E-Mail-Adresse, um auf dem Laufenden zu bleiben und benachrichtigt zu werden, wenn die Freigabe verfügbar ist.",
-    "description": "Beschreibung des Freigabemodals auf der Sandbox-Editor-Seite"
-  },
-  "shareModalSandboxButton": {
-    "message": "Warteliste beitreten",
-    "description": "Platzhalter für E-Mail im Freigabemodal auf der Sandbox-Editor-Seite"
-  },
-  "shareSandboxButton": {
-    "message": "Video teilen",
-    "description": "Schaltfläche 'Video teilen' auf der Sandbox-Editor-Seite"
   },
   "replaceAudioEditor": {
     "message": "Bestehendes Audio ersetzen",

@@ -11,10 +11,6 @@
     "message": "Registra",
     "description": "Etichetta della scheda Registra nel menu a discesa"
   },
-  "videosTab": {
-    "message": "Tus videos",
-    "description": "Etichetta della scheda I tuoi video nel menu a discesa"
-  },
   "screenType": {
     "message": "Schermo",
     "description": "Etichetta del tipo di registrazione dello schermo nel menu a discesa"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Esporta un GIF (massimo 30 secondi)",
     "description": "Etichetta di download GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Condividi i tuoi video con un link",
-    "description": "Titolo del modalità di condivisione nella pagina dell'editor di prova"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Prossimamente! Lascia la tua email per rimanere aggiornato e ricevere notifiche quando sarà disponibile.",
-    "description": "Descrizione del modalità di condivisione nella pagina dell'editor di prova"
-  },
-  "shareModalSandboxButton": {
-    "message": "Iscriviti alla lista d'attesa",
-    "description": "Spazio riservato per l'email nel modalità di condivisione nella pagina dell'editor di prova"
-  },
-  "shareSandboxButton": {
-    "message": "Condividi video",
-    "description": "Pulsante di condivisione nella pagina dell'editor di prova"
   },
   "replaceAudioEditor": {
     "message": "Sostituisci l'audio esistente",

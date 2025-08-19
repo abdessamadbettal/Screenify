@@ -11,10 +11,6 @@
     "message": "Gravar",
     "description": "Etiqueta da página de gravação no popup"
   },
-  "videosTab": {
-    "message": "Os teus vídeos",
-    "description": "Etiqueta da página de vídeos no popup"
-  },
   "screenType": {
     "message": "Ecrã",
     "description": "Etiqueta de tipo de gravação de ecrã no popup"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Exportar um GIF (máximo de 30 segundos)",
     "description": "Rótulo de baixar GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Partilha os teus vídeos com um link",
-    "description": "Título do modal de partilha na página do editor de testes"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Em breve! Deixa o teu email para seres notificado quando estiver disponível.",
-    "description": "Descrição do modal de partilha na página do editor de testes"
-  },
-  "shareModalSandboxButton": {
-    "message": "Junta-te à lista de espera",
-    "description": "Espaço reservado para o email no modal de partilha na página do editor de testes"
-  },
-  "shareSandboxButton": {
-    "message": "Partilhar vídeo",
-    "description": "Botão de partilha na página do editor de testes"
   },
   "replaceAudioEditor": {
     "message": "Substituir áudio existente",

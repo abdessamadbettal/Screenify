@@ -11,10 +11,6 @@
     "message": "Запис",
     "description": "Record tab label on popup"
   },
-  "videosTab": {
-    "message": "Ваші відео",
-    "description": "Videos tab label on popup"
-  },
   "screenType": {
     "message": "Екран",
     "description": "Screen recording type label on popup"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Експорт у форматі GIF (максимум 30 секунд)",
     "description": "Download GIF label"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Поділіться своїми відео з іншими",
-    "description": "Share modal title in sandbox editor page"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Скоро! Залиште свою електронну адресу, щоб бути в курсі та отримувати сповіщення, коли буде доступно обмін",
-    "description": "Share modal description in sandbox editor page"
-  },
-  "shareModalSandboxButton": {
-    "message": "Приєднуйтесь до списку очікування",
-    "description": "Share modal email placeholder in sandbox editor page"
-  },
-  "shareSandboxButton": {
-    "message": "Поділитися відео",
-    "description": "Share button in sandbox editor page"
   },
   "replaceAudioEditor": {
     "message": "Замінити існуюче аудіо",

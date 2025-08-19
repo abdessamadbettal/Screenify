@@ -7,8 +7,6 @@ const URL = "/assets/";
 // Icon
 import { ReactSVG } from "react-svg";
 
-import ShareModal from "./ShareModal";
-
 // Context
 import { ContentStateContext } from "../../context/ContentState"; // Import the ContentState context
 
@@ -76,9 +74,7 @@ const Title = () => {
 
   return (
     <div className={styles.TitleParent}>
-      {showShare && (
-        <ShareModal showShare={showShare} setShowShare={setShowShare} />
-      )}
+      
       <div className={styles.TitleWrap}>
         {showTitle ? (
           <>
@@ -100,7 +96,7 @@ const Title = () => {
                 src={URL + "editor/icons/link.svg"}
                 className={styles.shareIcon}
               />
-              {chrome.i18n.getMessage("shareSandboxButton")}
+              Download video
             </div>
           </>
         ) : (

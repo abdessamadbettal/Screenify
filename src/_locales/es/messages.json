@@ -11,10 +11,6 @@
     "message": "Grabar",
     "description": "Etiqueta de la pestaña Grabar en el menú desplegable"
   },
-  "videosTab": {
-    "message": "Tus vídeos",
-    "description": "Etiqueta de la pestaña Tus vídeos en el menú desplegable"
-  },
   "screenType": {
     "message": "Pantalla",
     "description": "Etiqueta de tipo de grabación de pantalla en el menú desplegable"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Exporta un GIF (máximo 30 segundos)",
     "description": "Etiqueta de descargar GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Comparte tus videos con un enlace",
-    "description": "Título del modal de compartir en la página del editor de pruebas"
-  },
-  "shareModalSandboxDescription": {
-    "message": "¡Próximamente! Deja tu correo electrónico para mantenerte actualizado y recibir notificaciones cuando esté disponible.",
-    "description": "Descripción del modal de compartir en la página del editor de pruebas"
-  },
-  "shareModalSandboxButton": {
-    "message": "Únete a la lista de espera",
-    "description": "Espacio reservado para el correo electrónico en el modal de compartir en la página del editor de pruebas"
-  },
-  "shareSandboxButton": {
-    "message": "Compartir video",
-    "description": "Botón de compartir en la página del editor de pruebas"
   },
   "replaceAudioEditor": {
     "message": "Reemplazar audio existente",

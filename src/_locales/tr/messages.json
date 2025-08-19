@@ -11,10 +11,6 @@
     "message": "Kaydet",
     "description": "Açılır pencere üzerinde kayıt sekmesi etiketi"
   },
-  "videosTab": {
-    "message": "Videolarınız",
-    "description": "Açılır pencere üzerinde videolar sekmesi etiketi"
-  },
   "screenType": {
     "message": "Ekran",
     "description": "Açılır pencere üzerinde ekran kaydı türü etiketi"
@@ -598,22 +594,6 @@
   "downloadGIFButtonDescription": {
     "message": "GIF olarak dışa aktar (maksimum 30 saniye)",
     "description": "GIF olarak İndir etiketi"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Videolarınızı başkalarıyla paylaşın",
-    "description": "Kum havuzlu editör sayfasındaki paylaşım modalı başlığı"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Yakında geliyor! Paylaşım kullanılabilecek olduğunda güncel kalın ve bildirildiğinizde haberdar olmak için e-posta bırakın.",
-    "description": "Kum havuzlu editör sayfasındaki paylaşım modalı açıklaması"
-  },
-  "shareModalSandboxButton": {
-    "message": "Bekleme listesine katılın",
-    "description": "Kum havuzlu editör sayfasındaki paylaşım modalı e-posta yer tutucusu"
-  },
-  "shareSandboxButton": {
-    "message": "Videoyu Paylaş",
-    "description": "Kum havuzlu editör sayfasındaki paylaşma düğmesi"
   },
   "replaceAudioEditor": {
     "message": "Mevcut sesi değiştir",

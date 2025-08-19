@@ -11,10 +11,6 @@
     "message": "녹화",
     "description": "Record tab label on popup"
   },
-  "videosTab": {
-    "message": "귀하의 동영상",
-    "description": "Videos tab label on popup"
-  },
   "screenType": {
     "message": "화면",
     "description": "Screen recording type label on popup"
@@ -598,22 +594,6 @@
   "downloadGIFButtonDescription": {
     "message": "GIF 내보내기 (최대 30초)",
     "description": "Download GIF label"
-  },
-  "shareModalSandboxTitle": {
-    "message": "다른 사람과 비디오 공유",
-    "description": "Share modal title in sandbox editor page"
-  },
-  "shareModalSandboxDescription": {
-    "message": "곧 출시됩니다! 이메일을 남겨 업데이트를 받고 공유 가능 시 알림을 받으세요.",
-    "description": "Share modal description in sandbox editor page"
-  },
-  "shareModalSandboxButton": {
-    "message": "대기 목록 가입",
-    "description": "Share modal email placeholder in sandbox editor page"
-  },
-  "shareSandboxButton": {
-    "message": "비디오 공유",
-    "description": "Share button in sandbox editor page"
   },
   "replaceAudioEditor": {
     "message": "기존 오디오 교체",

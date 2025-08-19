@@ -26,7 +26,6 @@ import {
 
 /* Component import */
 import RecordingTab from "./layout/RecordingTab";
-import VideosTab from "./layout/VideosTab";
 
 // Layouts
 import Announcement from "./layout/Announcement";
@@ -365,29 +364,9 @@ const PopupContainer = (props) => {
                     </div>
                     {chrome.i18n.getMessage("recordTab")}
                   </Tabs.Trigger>
-                  <Tabs.Trigger
-                    className="TabsTrigger tl"
-                    value="dashboard"
-                    ref={videoTabRef}
-                    tabIndex={0}
-                  >
-                    <div className="TabsTriggerIcon">
-                      <img
-                        src={
-                          tab === "dashboard"
-                            ? VideoTabActive
-                            : VideoTabInactive
-                        }
-                      />
-                    </div>
-                    {chrome.i18n.getMessage("videosTab")}
-                  </Tabs.Trigger>
                 </Tabs.List>
                 <Tabs.Content className="TabsContent tl" value="record">
                   <RecordingTab shadowRef={props.shadowRef} />
-                </Tabs.Content>
-                <Tabs.Content className="TabsContent tl" value="dashboard">
-                  <VideosTab />
                 </Tabs.Content>
               </Tabs.Root>
             )}

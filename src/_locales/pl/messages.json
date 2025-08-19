@@ -11,10 +11,6 @@
     "message": "Nagrywaj",
     "description": "Etykieta zakładki Nagrywaj na okienku popup"
   },
-  "videosTab": {
-    "message": "Twoje filmy",
-    "description": "Etykieta zakładki Twoje filmy na okienku popup"
-  },
   "screenType": {
     "message": "Ekran",
     "description": "Etykieta rodzaju nagrywania ekranu na okienku popup"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Eksportuj jako GIF (maks. 30 sekund)",
     "description": "Etykieta pobierania GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Udostępnij swoje wideo innym osobom",
-    "description": "Tytuł okna modalnego udostępniania w edytorze w piaskownicy"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Wkrótce! Podaj swój adres e-mail, aby pozostać na bieżąco i otrzymywać powiadomienia, gdy dostępne będzie udostępnianie.",
-    "description": "Opis okna modalnego udostępniania w edytorze w piaskownicy"
-  },
-  "shareModalSandboxButton": {
-    "message": "Dołącz do listy oczekujących",
-    "description": "Etykieta pola e-mail w oknie modalnym udostępniania w edytorze w piaskownicy"
-  },
-  "shareSandboxButton": {
-    "message": "Udostępnij wideo",
-    "description": "Przycisk udostępniania w edytorze w piaskownicy"
   },
   "replaceAudioEditor": {
     "message": "Zamień istniejący dźwięk",

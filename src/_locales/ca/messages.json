@@ -11,10 +11,6 @@
     "message": "Enregistra",
     "description": "Etiqueta de la pestanya 'Enregistra' en el pop-up"
   },
-  "videosTab": {
-    "message": "Els teus vídeos",
-    "description": "Etiqueta de la pestanya 'Els teus vídeos' en el pop-up"
-  },
   "screenType": {
     "message": "Pantalla",
     "description": "Etiqueta del tipus de gravació 'Pantalla' en el pop-up"
@@ -599,22 +595,6 @@
   "downloadGIFButtonDescription": {
     "message": "Exporta un GIF (màxim 30 segons)",
     "description": "Etiqueta de descàrrega de GIF"
-  },
-  "shareModalSandboxTitle": {
-    "message": "Comparteix els teus vídeos amb un enllaç",
-    "description": "Títol del modal de compartir a la pàgina de l'editor de proves"
-  },
-  "shareModalSandboxDescription": {
-    "message": "Properament! Deixa el teu correu electrònic per estar informat i rebre notificacions quan estigui disponible.",
-    "description": "Descripció del modal de compartir a la pàgina de l'editor de proves"
-  },
-  "shareModalSandboxButton": {
-    "message": "Apunta't a la llista d'espera",
-    "description": "Missatge de correu electrònic del modal de compartir a la pàgina de l'editor de proves"
-  },
-  "shareSandboxButton": {
-    "message": "Comparteix",
-    "description": "Botó de compartir a la pàgina de l'editor de proves"
   },
   "replaceAudioEditor": {
     "message": "Substitueix l'àudio",
