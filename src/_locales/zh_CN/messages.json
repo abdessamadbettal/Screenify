@@ -19,14 +19,6 @@
     "message": "标签区域",
     "description": "Tab area recording type label on popup"
   },
-  "cameraType": {
-    "message": "摄像头",
-    "description": "Camera recording type label on popup"
-  },
-  "mockupType": {
-    "message": "模拟",
-    "description": "Mockup recording type label on popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "自定义区域录制已禁用",
     "description": "Custom area recording disabled warning on popup for Chrome version older than 104"

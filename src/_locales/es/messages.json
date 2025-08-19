@@ -19,14 +19,6 @@
     "message": "Área",
     "description": "Etiqueta de tipo de grabación de área de pestaña en el menú desplegable"
   },
-  "cameraType": {
-    "message": "Cámara",
-    "description": "Etiqueta de tipo de grabación de cámara en el menú desplegable"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Etiqueta de tipo de grabación de maqueta en el menú desplegable"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Grabación de área personalizada deshabilitada",
     "description": "Título del aviso de grabación de área personalizada deshabilitada en versiones de Chrome anteriores a la 104"

@@ -19,14 +19,6 @@
     "message": "Tab-Bereich",
     "description": "Label für die Aufnahmeart 'Tab-Bereich' in der Popup-Ansicht"
   },
-  "cameraType": {
-    "message": "Kamera",
-    "description": "Label für die Aufnahmeart 'Kamera' in der Popup-Ansicht"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Label für die Aufnahmeart 'Mockup' in der Popup-Ansicht"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Benutzerdefinierte Bereichsaufnahme deaktiviert",
     "description": "Warnung 'Benutzerdefinierte Bereichsaufnahme deaktiviert' in der Popup-Ansicht für Chrome-Versionen älter als 104"

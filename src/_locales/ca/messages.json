@@ -19,14 +19,6 @@
     "message": "Àrea",
     "description": "Etiqueta del tipus de gravació 'Àrea de la pestanya' en el pop-up"
   },
-  "cameraType": {
-    "message": "Càmera",
-    "description": "Etiqueta del tipus de gravació 'Càmera' en el pop-up"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Etiqueta del tipus de gravació 'Maqueta' en el pop-up"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Gravació d'àrea personalitzada desactivada",
     "description": "Avís de desactivació de gravació d'àrea personalitzada en el pop-up per a versions de Chrome anteriors a 104"

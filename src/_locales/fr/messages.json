@@ -19,14 +19,6 @@
     "message": "Zone",
     "description": "Étiquette du type d'enregistrement de zone d'onglet dans le menu déroulant"
   },
-  "cameraType": {
-    "message": "Caméra",
-    "description": "Étiquette du type d'enregistrement de caméra dans le menu déroulant"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Étiquette du type d'enregistrement de maquette dans le menu déroulant"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Enregistrement de zone personnalisée désactivé",
     "description": "Titre de l'avis d'enregistrement de zone personnalisée désactivé dans les versions de Chrome antérieures à la 104"

@@ -19,14 +19,6 @@
     "message": "탭 영역",
     "description": "Tab area recording type label on popup"
   },
-  "cameraType": {
-    "message": "카메라",
-    "description": "Camera recording type label on popup"
-  },
-  "mockupType": {
-    "message": "모의실행",
-    "description": "Mockup recording type label on popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "사용자 정의 영역 녹화 비활성화됨",
     "description": "Custom area recording disabled warning on popup for Chrome version older than 104"
