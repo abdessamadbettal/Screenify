@@ -19,14 +19,6 @@
     "message": "Area",
     "description": "Etichetta del tipo di registrazione dell'area della scheda nel menu a discesa"
   },
-  "cameraType": {
-    "message": "Fotocamera",
-    "description": "Etichetta del tipo di registrazione della fotocamera nel menu a discesa"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Etichetta del tipo di registrazione del mockup nel menu a discesa"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Registrazione area personalizzata disabilitata",
     "description": "Titolo del messaggio di avviso per la registrazione dell'area personalizzata disabilitata nelle versioni di Chrome precedenti alla 104"

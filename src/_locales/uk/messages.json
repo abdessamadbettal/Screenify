@@ -19,14 +19,6 @@
     "message": "Область вкладки",
     "description": "Tab area recording type label on popup"
   },
-  "cameraType": {
-    "message": "Камера",
-    "description": "Camera recording type label on popup"
-  },
-  "mockupType": {
-    "message": "Макет",
-    "description": "Mockup recording type label on popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Запис області користувача вимкнено",
     "description": "Custom area recording disabled warning on popup for Chrome version older than 104"

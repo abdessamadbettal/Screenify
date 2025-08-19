@@ -19,8 +19,6 @@ const RegionTabOn = `${URL}/region-tab-on.svg`;
 const RegionTabOff = `${URL}/region-tab-off.svg`;
 const AudioTabOn = `${URL}/audio-tab-on.svg`;
 const AudioTabOff = `${URL}/audio-tab-off.svg`;
-const MockupTabOn = `${URL}/mockup-tab-on.svg`;
-const MockupTabOff = `${URL}/mockup-tab-off.svg`;
 const TempLogo = `${URL}/temp-logo.png`;
 const TempFigma = `${URL}/temp/figma.webp`;
 const TempTwitter = `${URL}/temp/twitter.webp`;
@@ -59,8 +57,6 @@ export {
   RegionTabOff,
   AudioTabOn,
   AudioTabOff,
-  MockupTabOn,
-  MockupTabOff,
   TempLogo,
   TempFigma,
   TempTwitter,

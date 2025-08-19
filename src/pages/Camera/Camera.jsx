@@ -110,11 +110,7 @@ const Camera = () => {
         setBackgroundEffects(true);
       } else if (request.type === "background-effects-inactive") {
         setBackgroundEffects(false);
-      } else if (request.type === "camera-only-update") {
-        setWidth("auto");
-        setHeight("100%");
-        recordingTypeRef.current = "camera";
-      } else if (request.type === "screen-update") {
+      }  else if (request.type === "screen-update") {
         // Needs to fit 100% width and height but considering aspect ratio
         const video = videoRef.current;
         const videoWidth = video.videoWidth;

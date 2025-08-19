@@ -19,14 +19,6 @@
     "message": "Area tab",
     "description": "Label jenis perekaman area tab pada popup"
   },
-  "cameraType": {
-    "message": "Kamera",
-    "description": "Label jenis perekaman kamera pada popup"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Label jenis perekaman mockup pada popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Perekaman area kustom dinonaktifkan",
     "description": "Peringatan perekaman area kustom dinonaktifkan pada popup untuk versi Chrome yang lebih lama dari 104"

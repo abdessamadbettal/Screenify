@@ -19,14 +19,6 @@
     "message": "Área",
     "description": "Etiqueta de tipo de gravação de área de página no popup"
   },
-  "cameraType": {
-    "message": "Câmera",
-    "description": "Etiqueta de tipo de gravação de câmera no popup"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Etiqueta de tipo de gravação de mockup no popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Gravação de área personalizada desativada",
     "description": "Aviso de gravação de área personalizada desativada para versões do Chrome anteriores à 104"

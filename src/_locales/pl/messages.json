@@ -19,14 +19,6 @@
     "message": "Obszar karty",
     "description": "Etykieta rodzaju nagrywania obszaru karty na okienku popup"
   },
-  "cameraType": {
-    "message": "Kamera",
-    "description": "Etykieta rodzaju nagrywania kamery na okienku popup"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Etykieta rodzaju nagrywania mockup na okienku popup"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Nagrywanie niestandardowego obszaru wyłączone",
     "description": "Ostrzeżenie o wyłączonym nagrywaniu niestandardowego obszaru na okienku popup dla wersji Chrome starszych niż 104"

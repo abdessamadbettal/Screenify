@@ -4,7 +4,6 @@ import React, { useContext, useRef, useEffect } from "react";
 import PopupContainer from "./popup/PopupContainer";
 import Toolbar from "./toolbar/Toolbar";
 import Camera from "./camera/Camera";
-import CameraOnly from "./camera-only/CameraOnly";
 import Canvas from "./canvas/Canvas";
 import Countdown from "./countdown/Countdown";
 import Modal from "./modal/Modal";
@@ -183,9 +182,6 @@ const Wrapper = () => {
               <Countdown />
               {contentState.recordingType != "camera" && (
                 <Camera shadowRef={shadowRef} />
-              )}
-              {contentState.recordingType === "camera" && (
-                <CameraOnly shadowRef={shadowRef} />
               )}
               {!(contentState.hideToolbar && contentState.hideUI) && (
                 <Toolbar />

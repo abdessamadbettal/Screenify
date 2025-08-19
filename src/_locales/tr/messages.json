@@ -19,14 +19,6 @@
     "message": "Sekme alanı",
     "description": "Açılır pencere üzerinde sekme alanı kaydı türü etiketi"
   },
-  "cameraType": {
-    "message": "Kamera",
-    "description": "Açılır pencere üzerinde kamera kaydı türü etiketi"
-  },
-  "mockupType": {
-    "message": "Mockup",
-    "description": "Açılır pencere üzerinde mockup kaydı türü etiketi"
-  },
   "customAreaRecordingDisabledTitle": {
     "message": "Özel alan kaydı devre dışı",
     "description": "Chrome sürümü 104'ten eski olanlar için özel alan kaydı devre dışı uyarısı başlığı"
