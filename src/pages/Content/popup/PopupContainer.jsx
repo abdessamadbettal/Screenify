@@ -362,7 +362,7 @@ const PopupContainer = (props) => {
                         }
                       />
                     </div>
-                    {chrome.i18n.getMessage("recordTab")}
+                    Screenily
                   </Tabs.Trigger>
                 </Tabs.List>
                 <Tabs.Content className="TabsContent tl" value="record">
