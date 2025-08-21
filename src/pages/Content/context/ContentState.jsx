@@ -757,39 +757,6 @@ const ContentState = (props) => {
     contentState.recordingType,
   ]);
 
-  // Check if offline or online (event)
-  // useEffect(() => {
-  //   const handleOffline = () => {
-  //     setContentState((prevContentState) => ({
-  //       ...prevContentState,
-  //       offline: true,
-  //     }));
-  //   };
-
-  //   const handleOnline = () => {
-  //     setContentState((prevContentState) => ({
-  //       ...prevContentState,
-  //       offline: false,
-  //     }));
-  //   };
-
-  //   window.addEventListener("offline", handleOffline);
-  //   window.addEventListener("online", handleOnline);
-
-  //   return () => {
-  //     window.removeEventListener("offline", handleOffline);
-  //     window.removeEventListener("online", handleOnline);
-  //   };
-  // }, []);
-
-  // useEffect(() => {
-  //   if (!navigator.onLine) {
-  //     setContentState((prevContentState) => ({
-  //       ...prevContentState,
-  //       offline: true,
-  //     }));
-  //   }
-  // }, []);
 
   useEffect(() => {
     if (!contentState) return;

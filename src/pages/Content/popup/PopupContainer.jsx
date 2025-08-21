@@ -342,6 +342,29 @@ const PopupContainer = (props) => {
                 defaultValue="record"
                 onValueChange={onValueChange}
               >
+                <Tabs.List
+                  className="TabsList tl"
+                  data-value={tab}
+                  aria-label="Manage your account"
+                  tabIndex={0}
+                >
+                  <div className="pill-anim" ref={pillRef}></div>
+                  <Tabs.Trigger
+                    className="TabsTrigger tl"
+                    value="record"
+                    ref={recordTabRef}
+                    tabIndex={0}
+                  >
+                    <div className="TabsTriggerIcon">
+                      <img
+                        src={
+                          tab === "record" ? RecordTabActive : RecordTabInactive
+                        }
+                      />
+                    </div>
+                    Screenily
+                  </Tabs.Trigger>
+                </Tabs.List>
                 <Tabs.Content className="TabsContent tl" value="record">
                   <RecordingTab shadowRef={props.shadowRef} />
                 </Tabs.Content>
