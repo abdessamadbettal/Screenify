@@ -168,7 +168,7 @@ const RecordingType = (props) => {
       {contentState.cameraPermission &&
         contentState.defaultVideoInput != "none" &&
         contentState.cameraActive && (
-          <div className="flex">
+          <div className="flex gap-2 justify-between">
             <Switch
               label={chrome.i18n.getMessage("flipCameraLabel")}
               name="flip-camera"
